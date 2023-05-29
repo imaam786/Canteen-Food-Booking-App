@@ -1,0 +1,60 @@
+<TextView
+    android:id="@+id/listview"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:textSize="16dp"
+    android:padding="10dp"
+    android:textColor="@color/black"
+    android:textStyle="bold"
+    xmlns:android="http://schemas.android.com/apk/res/android" />
+
+<!--<?xml version="1.0" encoding="utf-8"?>-->
+<!--<RelativeLayout-->
+<!--    xmlns:android="http://schemas.android.com/apk/res/android"-->
+<!--    xmlns:tools="http://schemas.android.com/tools"-->
+<!--    android:layout_width="match_parent"-->
+<!--    android:layout_height="match_parent">-->
+
+
+<!--    <TextView-->
+<!--        android:layout_width="match_parent"-->
+<!--        android:layout_height="wrap_content"-->
+<!--        android:id="@+id/listview1"-->
+<!--        android:layout_marginTop="10dp"-->
+<!--        android:layout_marginStart="10dp"-->
+<!--        android:layout_marginEnd="10dp"-->
+<!--        android:textSize="16dp"-->
+<!--        android:textColor="@color/black"-->
+<!--        android:text=" "/>-->
+<!--&lt;!&ndash;    <TextView&ndash;&gt;-->
+<!--&lt;!&ndash;        android:layout_width="match_parent"&ndash;&gt;-->
+<!--&lt;!&ndash;        android:layout_height="wrap_content"&ndash;&gt;-->
+<!--&lt;!&ndash;        android:id="@+id/listview2"&ndash;&gt;-->
+<!--&lt;!&ndash;        android:layout_below="@+id/listview"&ndash;&gt;-->
+<!--&lt;!&ndash;        android:layout_marginTop="10dp"&ndash;&gt;-->
+<!--&lt;!&ndash;        android:layout_marginStart="10dp"&ndash;&gt;-->
+<!--&lt;!&ndash;        android:layout_marginEnd="10dp"&ndash;&gt;-->
+<!--&lt;!&ndash;        android:textSize="16dp"&ndash;&gt;-->
+<!--&lt;!&ndash;        android:textColor="@color/black"&ndash;&gt;-->
+<!--&lt;!&ndash;        android:hint="amount"/>&ndash;&gt;-->
+
+
+
+
+<!--&lt;!&ndash;    <TextView&ndash;&gt;-->
+<!--&lt;!&ndash;        android:id="@+id/listview2"&ndash;&gt;-->
+<!--&lt;!&ndash;        android:layout_width="match_parent"&ndash;&gt;-->
+<!--&lt;!&ndash;        android:layout_height="match_parent"&ndash;&gt;-->
+<!--&lt;!&ndash;        android:padding="10dp"&ndash;&gt;-->
+<!--&lt;!&ndash;        android:textColor="@color/black"&ndash;&gt;-->
+<!--&lt;!&ndash;        android:textSize="16dp"&ndash;&gt;-->
+<!--&lt;!&ndash;        android:textStyle="bold"&ndash;&gt;-->
+<!--&lt;!&ndash;        tools:layout_editor_absoluteX="0dp"&ndash;&gt;-->
+<!--&lt;!&ndash;        tools:layout_editor_absoluteY="-16dp" />&ndash;&gt;-->
+<!--</RelativeLayout>-->
+
+
+
+
+
+
